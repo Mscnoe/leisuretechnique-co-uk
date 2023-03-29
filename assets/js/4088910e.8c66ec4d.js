@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleisure_technique=self.webpackChunkleisure_technique||[]).push([[4472],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
