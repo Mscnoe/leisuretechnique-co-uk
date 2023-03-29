@@ -100,16 +100,16 @@ const config = {
             title: 'Contact',
             items: [
               {
-                label: 'Phone',
-                href: '<a href="tel: 01482668377">01482 668377</a>',
+                label: 'Phone: 01482 668377',
+                href: 'tel:01482668377',
               },
               {
-                label: 'Email',
-                href: '<a href="mailto:service@leisuretechnique.com">service@leisuretechnique.com</a>',
+                label: 'Email: service@leisuretechnique.com',
+                href: 'mailto:service@leisuretechnique.com',
               },
               {
-                label: 'DDI',
-                href: '<a href="tel: 01482661113">01482 661113</a>',
+                label: 'DDI: 01482 661113',
+                href: 'tel:01482661113',
               },
             ],
           },
