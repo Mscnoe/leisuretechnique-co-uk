@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleisure_technique=self.webpackChunkleisure_technique||[]).push([[5270],{3876:e=>{e.exports=JSON.parse('{"permalink":"/leisuretechnique-co-uk/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

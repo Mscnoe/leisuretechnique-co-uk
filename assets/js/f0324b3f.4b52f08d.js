@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleisure_technique=self.webpackChunkleisure_technique||[]).push([[1898],{7073:e=>{e.exports=JSON.parse('{"permalink":"/leisuretechnique-co-uk/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

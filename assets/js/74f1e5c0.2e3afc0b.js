@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleisure_technique=self.webpackChunkleisure_technique||[]).push([[9558],{2990:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/leisuretechnique-co-uk/blog/tags/facebook","allTagsPath":"/leisuretechnique-co-uk/blog/tags","count":1}')}}]);

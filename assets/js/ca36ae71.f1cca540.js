@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleisure_technique=self.webpackChunkleisure_technique||[]).push([[6378],{8734:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/leisuretechnique-co-uk/blog/tags/docusaurus","allTagsPath":"/leisuretechnique-co-uk/blog/tags","count":4}')}}]);
