@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Create a Page
 
-Hello Potato
+Who are we? Our core team of three, Carl, Richard ans Steve have over 100 years of experience in Bingo between us. Manufacturing new and replacement equipment, maintaining existing rigs, supplying spare parts and repairing faulty items (in some cases long after they have been discontinued). Even a "new" instalation in Bingo can be 15 years old now, much of the kit in the field is over 20 years old and is expected to last even longer! We can help you achieve this by supplying spare parts, assemblies, support and advice. By drawing on our connections with other experienced personnel we can offer installation, on site service, repairs and support. Many parts can be supplied from out extensive stocks and shipped for next day delivery. Email us or call with your requirements - we are sure to be able to help. 
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
